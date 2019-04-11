@@ -15,4 +15,6 @@
 [2019-04-09](07.md)  07. Nobel in Physiology or Medicine to Yoshinori Ohsumi
 
 [2019-04-10](08.md)  08. Stopping Splashes with Smarter Surfaces
+[2019-04-11](09.md)  09. Go to the (White) Light
+
 
