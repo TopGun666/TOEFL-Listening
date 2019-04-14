@@ -17,4 +17,6 @@
 [2019-04-10](08.md)  08. Stopping Splashes with Smarter Surfaces
 [2019-04-11](09.md)  09. Go to the (White) Light
 
+[2019-04-14](10.md)  10. Dogs Teach Bomb-Sniffing Machines New Tricks
+
 
