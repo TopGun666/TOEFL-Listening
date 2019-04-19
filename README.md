@@ -21,3 +21,7 @@
 
 [2019-04-15](11.md)  11. Fuel-Efficient Engines Have a Sooty Flaw
 
+[2019-04-16](12.md)  12. Ancient Biblical Scroll Gets Read While Wrapped
+
+[2019-04-22](13.md)  13. This Algorithm Can Predict Relationship Trouble
+
